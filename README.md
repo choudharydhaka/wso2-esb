@@ -1,6 +1,6 @@
 # WSO2 ESB
 
-This repository contains WSO2 esb proudct docker file, with below mentioned details:
+This repository contains WSO2 ESB product docker file, with below mentioned details:
 
 |Item|Description|Other|
 |---|--------|--------|
@@ -42,7 +42,7 @@ Step 4: Test
 ```
 or 
 
-goto your browser and pate the following url (https://localhost:9443/carbon)
+goto your browser and paste the following URL (https://localhost:9443/carbon)
 
 ### Run through Docker hub
 
@@ -53,7 +53,7 @@ docker run wso2-esb:1.0.0 -p 9443:9443 -p 9763:9763 -p 8243:8243 -p 8280:8280 -n
 
 ## Test 
 ### Browser
-Go to your browser and pate the following url (https://localhost:9443/carbon)
+Go to your browser and paste the following URL (https://localhost:9443/carbon)
 
 ### Bash
 ```
