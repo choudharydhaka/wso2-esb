@@ -1,4 +1,4 @@
-# wso2-esb
+# WSO2 ESB
 
 This repository contains WSO2 esb proudct docker file, with below mentioned details:
 
